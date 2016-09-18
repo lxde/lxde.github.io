@@ -7,8 +7,8 @@ description: Desktop environment for all
 owner: LXDE Contributors
 first_published: 2008 # if migrating another site, the year of your first publish
 email: admin@lxde.org
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lxde.org" # the base hostname & protocol for your site
+baseurl: "/lxde.org" # the subpath of your site, e.g. /blog
+url: "https://medicalwei.github.io" # the base hostname & protocol for your site
 social:
   github: https://github.com/lxde
 
