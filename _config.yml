@@ -9,9 +9,6 @@ first_published: 2008 # if migrating another site, the year of your first publis
 email: admin@lxde.org
 baseurl: "/lxde.org" # the subpath of your site, e.g. /blog
 url: "https://medicalwei.github.io" # the base hostname & protocol for your site
-social:
-  github: https://github.com/lxde
-
 # Build settings
 markdown: kramdown
 #sass:
