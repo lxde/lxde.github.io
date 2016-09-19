@@ -1386,6 +1386,12 @@ $baseurl: '{{ site.baseurl }}/images';
 					font-size: 0.8em;
 				}
 			}
+
+      img {
+        vertical-align: middle;
+        margin-right: 0.3em;
+        margin-top: -0.2em;
+      }
 		}
 
 		nav {
