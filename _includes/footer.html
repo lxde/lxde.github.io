@@ -1,13 +1,8 @@
 <!-- Footer -->
 <footer id="footer">
   <ul class="copyright">
-    <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
-    {% if site.first_published %}
-      {% capture diff %}{{ site.first_published | minus:thisyear }}{% endcapture %}
-      {% if diff contains '-' %}{{ site.first_published }},{% endif %}
-    {% endif %}
-    {{ thisyear }}
-    {% if site.owner %}{{ site.owner }}{% else %}{{ site.title }}{% endif %}</li>
+    {% assign thisyear = site.time | date: "%Y" %}
+    <li>2008–{{ thisyear }} LXDE Contributors</li>
     <li><a href="https://github.com/lxde/lxde.org">Website source code</a></li>
     <li><a href="https://github.com/arkadianriver/spectral">Spectral</a> theme from <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
   </ul>

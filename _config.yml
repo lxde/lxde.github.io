@@ -4,12 +4,10 @@
 # Site settings
 title: LXDE
 description: Desktop environment for all
-owner: LXDE Contributors
-first_published: 2008 # if migrating another site, the year of your first publish
 email: admin@lxde.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://beta.lxde.org" # the base hostname & protocol for your site
-# Build settings
+permalink: pretty
 markdown: kramdown
-#sass:
-#  style: compressed
+sass:
+  style: compressed
