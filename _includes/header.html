@@ -1,6 +1,6 @@
 <!-- Header -->
 <header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
-  <h1><a href="{{ site.baseurl }}/index.html">
+  <h1><a href="{{ site.baseurl }}/">
     <img src="{{ site.baseurl }}/images/lxde-logo.svg" alt="LXDE logo" width="32" height="32">
     {{ site.title }}
   </a></h1>
@@ -10,10 +10,16 @@
         <a href="#menu" class="menuToggle"><span>Menu</span></a>
         <div id="menu">
           <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
             {% for my_page in site.pages %}
             {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">
+              {% if my_page.short_title %}
+                {{ my_page.short_title }}
+              {% else %}
+                {{ my_page.title }}
+              {% endif %}
+            </a></li>
             {% endif %}
             {% endfor %}
             <li><a href="http://lxqt.org">LXQt</a></li>
