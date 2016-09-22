@@ -7,7 +7,8 @@ You have a handful of ways to try out LXDE.
 
 #### But I am totally new to those Linux things
 
-We recommend you to try out Lubuntu, which is made by our community members.
+We recommend you to try out Lubuntu, which is based on Ubuntu Linux, and made
+by our community members.
 
 <ul class="actions">
   <li><a href="http://lubuntu.me" class="button special">Get Lubuntu</a></li>
