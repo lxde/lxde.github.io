@@ -20,10 +20,6 @@ The first step of joining is always to download the software and try it out.
   <li><a href="/get" class="button special">Get LXDE</a></li>
 </ul>
 
-If you fancy for a single-board computer, there are many boards (for example,
-Raspberry Pi) using LXDE as their default desktop environment.  If it doesn't,
-you can still try to install it by yourself, or with the help of the community.
-
 #### Test LXDE
 
 Users are not only consumer. We believe users can be valuable contributors by
@@ -31,7 +27,10 @@ using and testing LXDE and by offering their feedback. We invite you to test
 components from LXDE subversion for bugs. Please check out the bug tracking
 system at Sourceforge and start testing LXDE.
 
-**[TODO: check bugtracker location]**
+<ul class="actions">
+  <li><a href="https://sourceforge.net/p/lxde/bugs/" class="button">LXDE Bug tracker</a></li>
+  <li><a href="https://sourceforge.net/p/pcmanfm/bugs/" class="button">PCManFM Bug tracker</a></li>
+</ul>
 
 #### Translate LXDE and the projects documentation
 
@@ -59,7 +58,13 @@ together with people from all over the world. If you see a bug in the
 bug-tracker that you can fix, let us know and then go for it! All the
 information you need to checkout LXDE is on our Sourceforge pages.
 
-**[TODO: check what page should we refer to. GitHub?]**
+<ul class="actions">
+  <li><a href="https://sourceforge.net/projects/lxde/" class="button">LXDE Sourceforge Project</a></li>
+  <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM Sourceforge Project</a></li>
+</ul>
+
+Also, if you use IRC, you can also join the chatroom at
+`irc://irc.oftc.net#lxde`.
 
 #### Become a LXDE Designer
 
@@ -92,39 +97,11 @@ Please subscribe to an LXDE mailing list, influence future development by
 participating in discussions and get updates on LXDE projects. We are currently
 offering the following lists:
 
-**[TODO: Check if the links are alive or dead]**
-
-LXDE Developers
-    https://lists.sourceforge.net/lists/listinfo/lxde-list
-PCMan File Manager Developers List
-    https://lists.sourceforge.net/lists/listinfo/pcmanfm-develop
-LXDE Translation Project
-    https://lists.sourceforge.net/lists/listinfo/lxde-i18n
-
-#### Support the LXDE Cause on Social Networks
-
-The LXDE community has its home all over the web. Show your support for the
-LXDE cause to create a faster, easier to use and more energy efficient desktop
-environment and join LXDE groups in social networks. Become a member in groups,
-a fan, a supporter of our common cause or set up your own social group to join
-up with people from all over the world.
-
-**[TODO: Schrödinger's Cat]**
-
-LXDE at Facebook
-    Become a member of the LXDE Cause: http://apps.facebook.com/causes/130831
-    Become a member of the LXDE Group: http://www.facebook.com/group.php?gid=118811935064
-    Become a Fan of LXDE: http://www.facebook.com/pages/LXDE/21251244425
-LXDE on LinkedIn
-    Become a member of the LXDE group on LinkedIn: http://www.linkedin.com/groups?gid=1121347
-LXDE on identi.ca
-    http://identi.ca/group/lxde
-LXDE on LAST.fm
-    http://www.lastfm.de/group/LXDE
-LXDE on Linux.com
-    http://www.linux.com/community/groups/viewgroup/166-LXDE
-LXDE on openDesktop.org
-    http://www.opendesktop.org/groups/?id=204 (also on KDE/XFCE/Gnome/...-look.org)
+<ul class="actions">
+  <li><a href="https://lists.sourceforge.net/lists/listinfo/lxde-list" class="button">LXDE Mailing List</a></li>
+  <li><a href="https://lists.sourceforge.net/lists/listinfo/pcmanfm-develop" class="button">PCManFM Mailing List</a></li>
+  <li><a href="https://lists.sourceforge.net/lists/listinfo/lxde-i18n" class="button">I18n Mailing List</a></li>
+</ul>
 
 #### Promote LXDE
 
@@ -142,13 +119,3 @@ many events of the open source community all over the world. The core team of
 LXDE is simply not able to attend all events. You can support the cause of LXDE
 by making the project visible. Register as a member of the LXDE community at
 events, set up a LXDE info point and showcase LXDE.
-
-#### Donate to the LXDE Community
-
-If you enjoy and use LXDE please consider supporting the LXDE Community
-financially or as a hardware company donate hardware. The LXDE Foundation e.V.
-is a registered non-profit organization and accepted as tax-exempt. Its
-Articles oblige to spend all donations it gets to support the LXDE project.
-Please support the LXDE project by donating. Your contribution is very much
-appreciated!
-
