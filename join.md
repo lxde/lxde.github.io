@@ -63,7 +63,7 @@ information you need to checkout LXDE is on our Sourceforge pages.
   <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM Sourceforge Project</a></li>
 </ul>
 
-Also, if you use IRC, you can also join the chatroom at
+Also, if you use IRC, you can join the chatroom at
 `irc://irc.oftc.net#lxde`.
 
 #### Become a LXDE Designer
