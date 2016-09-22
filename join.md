@@ -25,7 +25,7 @@ The first step of joining is always to download the software and try it out.
 Users are not only consumer. We believe users can be valuable contributors by
 using and testing LXDE and by offering their feedback. We invite you to test
 components from LXDE subversion for bugs. Please check out the bug tracking
-system at Sourceforge and start testing LXDE.
+system at SourceForge and start testing LXDE.
 
 <ul class="actions">
   <li><a href="https://sourceforge.net/p/lxde/bugs/" class="button">LXDE Bug tracker</a></li>
@@ -56,11 +56,11 @@ LXDE is a Free and Open Source project started in Taiwan in 2005 with the
 publication of the first component PCManFM. We are excited to join up and work
 together with people from all over the world. If you see a bug in the
 bug-tracker that you can fix, let us know and then go for it! Most of the
-information you need to checkout LXDE is on our Sourceforge pages.
+information you need to checkout LXDE is on our SourceForge pages.
 
 <ul class="actions">
-  <li><a href="https://sourceforge.net/projects/lxde/" class="button">LXDE Sourceforge Project</a></li>
-  <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM Sourceforge Project</a></li>
+  <li><a href="https://sourceforge.net/projects/lxde/" class="button">LXDE SourceForge Page</a></li>
+  <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM SourceForge Page</a></li>
 </ul>
 
 Our source code repository is self-hosted at:

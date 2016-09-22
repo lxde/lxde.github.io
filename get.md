@@ -38,7 +38,7 @@ on it, such as web browser, video player and office suite.
 
 #### I would like to get the source code
 
-If you are looking for the source code, we are hosting them in the Sourceforge
+If you are looking for the source code, we are hosting them in the SourceForge
 projects:
 
 <ul class="actions">
