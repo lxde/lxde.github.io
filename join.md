@@ -55,12 +55,17 @@ content, please contact us us and we will set up a wiki in your language.
 LXDE is a Free and Open Source project started in Taiwan in 2005 with the
 publication of the first component PCManFM. We are excited to join up and work
 together with people from all over the world. If you see a bug in the
-bug-tracker that you can fix, let us know and then go for it! All the
+bug-tracker that you can fix, let us know and then go for it! Most of the
 information you need to checkout LXDE is on our Sourceforge pages.
 
 <ul class="actions">
   <li><a href="https://sourceforge.net/projects/lxde/" class="button">LXDE Sourceforge Project</a></li>
   <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM Sourceforge Project</a></li>
+</ul>
+
+Our source code repository is self-hosted at:
+<ul class="actions">
+  <li><a href="https://git.lxde.org" class="button">git.lxde.org</a></li>
 </ul>
 
 Also, if you use IRC, you can join the chatroom at
