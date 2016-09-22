@@ -47,9 +47,9 @@ for detailed information:
 </ul>
 
 An easy way to join translation is also to start translating wiki pages. Check
-out the wiki in your language at http://wiki.lxde.org . If your language is not
-listed yet and you would like to be a maintainer of wiki content, please
-contact us us and we will set up a wiki in your language.
+out the wiki in your language at [our wiki](https://wiki.lxde.org). If your
+language is not listed yet and you would like to be a maintainer of wiki
+content, please contact us us and we will set up a wiki in your language.
 
 #### Become a Developer and Submit Patches/Code Contributions
 
