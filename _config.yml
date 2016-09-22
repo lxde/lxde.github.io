@@ -6,7 +6,7 @@ title: LXDE
 description: Desktop environment for all
 email: admin@lxde.org
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://beta.lxde.org" # the base hostname & protocol for your site
+url: "http://lxde.org" # the base hostname & protocol for your site
 permalink: pretty
 markdown: kramdown
 sass:
