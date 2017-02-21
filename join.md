@@ -110,7 +110,7 @@ offering the following lists:
 
 #### Promote LXDE
 
-Write about LXDE, publish fotos, videos or any media you can think of. LXDE
+Write about LXDE, publish photos, videos or any media you can think of. LXDE
 performs well on energy saving computers such as mobile devices and other low
 powered devices. Not everyone knows about this. LXDE is useful and can help
 many people in their lives. Support the community and promote LXDE. Write about
