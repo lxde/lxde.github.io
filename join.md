@@ -17,7 +17,7 @@ to keeping in touch with you.
 The first step of joining is always to download the software and try it out.
 
 <ul class="actions">
-  <li><a href="/get" class="button special">Get LXDE</a></li>
+  <li><a href="/get/" class="button special">Get LXDE</a></li>
 </ul>
 
 #### Test LXDE
@@ -65,7 +65,7 @@ information you need to checkout LXDE is on our SourceForge pages.
 
 Our source code repository is self-hosted at:
 <ul class="actions">
-  <li><a href="https://git.lxde.org" class="button">git.lxde.org</a></li>
+  <li><a href="https://git.lxde.org/" class="button">git.lxde.org</a></li>
 </ul>
 
 Also, if you use IRC, you can join the chatroom at
@@ -91,9 +91,9 @@ with solutions to common problems, how-to's, and other helpful information.
 Check out the resources on the LXDE websites and start contributing yourself:
 
 <ul class="actions">
-  <li><a href="https://wiki.lxde.org" class="button">Wiki</a></li>
-  <li><a href="https://forum.lxde.org" class="button">Forums</a></li>
-  <li><a href="https://blog.lxde.org" class="button">Blog</a></li>
+  <li><a href="https://wiki.lxde.org/" class="button">Wiki</a></li>
+  <li><a href="https://forum.lxde.org/" class="button">Forums</a></li>
+  <li><a href="https://blog.lxde.org/" class="button">Blog</a></li>
 </ul>
 
 #### Subscribe to a LXDE Mailing List
