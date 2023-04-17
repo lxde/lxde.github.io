@@ -7,12 +7,24 @@ You have a handful of ways to try out LXDE.
 
 #### But I am totally new to those Linux things
 
-We encourage you to try out Lubuntu, which is based on Ubuntu Linux, and made
-by our community members.
+We encourage you to try out Fedora LXDE
 
 <ul class="actions">
-  <li><a href="http://lubuntu.me" class="button special">Get Lubuntu</a></li>
+  <li><a href="https://spins.fedoraproject.org/lxde/" class="button special">Get Fedora LXDE</a></li>
 </ul>
+
+
+#### I'm not new, but I want to install something that comes with LXDE
+
+Many distributions offer LXDE out of the box, such as LXLE and Debian.
+
+<ul class="actions">
+  <li><a href="https://www.lxle.net/" class="button special">Get LXLE</a></li>
+</ul>
+<ul class="actions">
+  <li><a href="https://www.debian.org/CD/live/#live-install-stable" class="button special">Get Debian</a></li>
+</ul>
+
 
 #### I have a Linux or BSD running on my computer, and I want to try LXDE
 
@@ -30,7 +42,7 @@ for a fraction of the price.  Many single-board computers preloaded LXDE as
 their default desktop environment.
 
 You could also consider getting a computer from a local computer recyclers and
-ask them to install Lubuntu on it.
+ask them to install Fedora LXDE, or Debian on it.
 
 Although it could run on the computers with RAM as small as 256MiB, We
 recommend getting a computer with RAM of 1GiB or above for applications running
