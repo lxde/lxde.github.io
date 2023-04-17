@@ -63,9 +63,9 @@ information you need to checkout LXDE is on our SourceForge pages.
   <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM SourceForge Page</a></li>
 </ul>
 
-Our source code repository is self-hosted at:
+Our source code repository can be found on GitHub:
 <ul class="actions">
-  <li><a href="https://git.lxde.org/" class="button">git.lxde.org</a></li>
+  <li><a href="https://github.com/lxde" class="button">github.com/lxde</a></li>
 </ul>
 
 Also, if you use IRC, you can join the chatroom at
