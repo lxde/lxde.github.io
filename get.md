@@ -25,7 +25,7 @@ Many distributions offer LXDE out of the box, such as LXLE, openSUSE, and Debian
   <li><a href="https://www.debian.org/CD/live/#live-install-stable" class="button special">Get Debian</a></li>
 </ul>
 <ul class="actions">
-  <li><a href="https://get/opensuse.org" class="button special">Get openSUSE</a></li>
+  <li><a href="https://get.opensuse.org" class="button special">Get openSUSE</a></li>
 </ul>
 
 
