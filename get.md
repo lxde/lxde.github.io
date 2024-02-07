@@ -10,9 +10,8 @@ You have a handful of ways to try out LXDE.
 We encourage you to try out Fedora LXDE
 
 <ul class="actions">
-  <li><a href="https://spins.fedoraproject.org/lxde/" class="button special">Get Fedora LXDE</a></li>
+  <li><a href="https://fedoraproject.org/spins/lxde/" class="button special">Get Fedora LXDE</a></li>
 </ul>
-
 
 #### I'm not new, but I want to install something that comes with LXDE
 
@@ -28,14 +27,13 @@ Many distributions offer LXDE out of the box, such as LXLE, openSUSE, and Debian
   <li><a href="https://get.opensuse.org" class="button special">Get openSUSE</a></li>
 </ul>
 
-
 #### I have a Linux or BSD running on my computer, and I want to try LXDE
 
 Sure. You can install LXDE easily. Please follow the wiki page to find out how to install LXDE
 for your distribution.
 
 <ul class="actions">
-  <li><a href="https://wiki.lxde.org/en/Category:Linux_Distributions" class="button">Distributions with LXDE</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/LXDE#Availability" class="button">Distributions with LXDE</a></li>
 </ul>
 
 #### I want to buy a low-budget computer with LXDE
@@ -53,10 +51,10 @@ on it, such as web browser, video player and office suite.
 
 #### I would like to get the source code
 
-If you are looking for the source code, we are hosting them in the SourceForge
-projects:
+If you are looking for the source code, we are hosting them in the GitHub
+repositories:
 
 <ul class="actions">
-  <li><a href="https://sourceforge.net/projects/lxde/files/" class="button">LXDE</a></li>
-  <li><a href="https://sourceforge.net/projects/pcmanfm/files/" class="button">PCManFM</a></li>
+  <li><a href="https://github.com/lxde" class="button">LXDE</a></li>
+  <li><a href="https://github.com/lxde/pcmanfm" class="button">PCManFM</a></li>
 </ul>
