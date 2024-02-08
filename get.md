@@ -27,15 +27,6 @@ Many distributions offer LXDE out of the box, such as LXLE, openSUSE, and Debian
   <li><a href="https://get.opensuse.org" class="button special">Get openSUSE</a></li>
 </ul>
 
-#### I have a Linux or BSD running on my computer, and I want to try LXDE
-
-Sure. You can install LXDE easily. Please follow the wiki page to find out how to install LXDE
-for your distribution.
-
-<ul class="actions">
-  <li><a href="https://en.wikipedia.org/wiki/LXDE#Availability" class="button">Distributions with LXDE</a></li>
-</ul>
-
 #### I want to buy a low-budget computer with LXDE
 
 If you want to buy a computer, you can consider getting a single-board computer
