@@ -15,11 +15,8 @@ We encourage you to try out Fedora LXDE
 
 #### I'm not new, but I want to install something that comes with LXDE
 
-Many distributions offer LXDE out of the box, such as LXLE, openSUSE, and Debian.
+Many distributions offer LXDE out of the box, such as openSUSE and Debian.
 
-<ul class="actions">
-  <li><a href="https://www.lxle.net/" class="button special">Get LXLE</a></li>
-</ul>
 <ul class="actions">
   <li><a href="https://www.debian.org/CD/live/#live-install-stable" class="button special">Get Debian</a></li>
 </ul>
