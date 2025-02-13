@@ -24,12 +24,13 @@ The first step of joining is always to download the software and try it out.
 
 Users are not only consumer. We believe users can be valuable contributors by
 using and testing LXDE and by offering their feedback. We invite you to test
-components from LXDE subversion for bugs. Please check out the bug tracking
-system at SourceForge and start testing LXDE.
+components from LXDE repositories for bugs. Please check out the bug tracking
+system at GitHub and start testing LXDE.
 
 <ul class="actions">
-  <li><a href="https://sourceforge.net/p/lxde/bugs/" class="button">LXDE Bug tracker</a></li>
-  <li><a href="https://sourceforge.net/p/pcmanfm/bugs/" class="button">PCManFM Bug tracker</a></li>
+  <li><a href="https://github.com/orgs/lxde/repositories" class="button">LXDE Components</a></li>
+  <li><a href="https://github.com/search?q=org%3Alxde&type=issues&state=open&s=created&o=desc" class="button">LXDE Bug tracker</a></li>
+  <li><a href="https://github.com/lxde/pcmanfm/issues" class="button">PCManFM Bug tracker</a></li>
 </ul>
 
 #### Translate LXDE and the projects documentation
@@ -56,11 +57,11 @@ LXDE is a Free and Open Source project started in Taiwan in 2005 with the
 publication of the first component PCManFM. We are excited to join up and work
 together with people from all over the world. If you see a bug in the
 bug-tracker that you can fix, let us know and then go for it! Most of the
-information you need to checkout LXDE is on our SourceForge pages.
+information you need to checkout LXDE is on our GitHub pages.
 
 <ul class="actions">
-  <li><a href="https://sourceforge.net/projects/lxde/" class="button">LXDE SourceForge Page</a></li>
-  <li><a href="https://sourceforge.net/projects/pcmanfm/" class="button">PCManFM SourceForge Page</a></li>
+  <li><a href="https://github.com/lxde" class="button">LXDE GitHub Page</a></li>
+  <li><a href="https://github.com/lxde/pcmanfm" class="button">PCManFM GitHub Page</a></li>
 </ul>
 
 Our source code repository can be found on GitHub:
@@ -74,8 +75,7 @@ Also, if you use IRC, you can join the chatroom at
 #### Become a LXDE Designer
 
 Open Source means everyone can get involved - not only developers. Check out
-the LXDE design and browse the project page at sourceforge. Join us at the LXDE
-Design Project.
+the LXDE design and join us at the LXDE Design Project.
 
 <ul class="actions">
   <li><a href="https://wiki.lxde.org/en/Category:Design" class="button">Wiki Page</a></li>
