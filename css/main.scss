@@ -817,6 +817,8 @@ $baseurl: '{{ site.baseurl }}/images';
 		white-space: nowrap;
 		overflow: hidden;
 		text-overflow: ellipsis;
+		user-select: none;
+		-webkit-user-select: none;
 
 		&:hover {
 			background-color: _palette(border-bg);
@@ -1313,6 +1315,8 @@ $baseurl: '{{ site.baseurl }}/images';
 					outline: 0;
 					text-decoration: none;
 					text-transform: uppercase;
+					user-select: none;
+					-webkit-user-select: none;
 
 					@include breakpoint(small) {
 						line-height: 3em;
@@ -1367,6 +1371,11 @@ $baseurl: '{{ site.baseurl }}/images';
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+
+		a {
+			user-select: none;
+			-webkit-user-select: none;
+		}
 
 		h1 {
 			@include vendor('transition', 'opacity #{_duration(transitions)} ease');
@@ -1512,6 +1521,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			text-transform: uppercase;
 			width: 16em;
 			z-index: 1;
+			user-select: none;
+			-webkit-user-select: none;
 
 			&:after {
 				background-image: url('images/arrow.svg');
