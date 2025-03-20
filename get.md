@@ -37,6 +37,14 @@ Although it could run on the computers with RAM as small as 256MiB, We
 recommend getting a computer with RAM of 1GiB or above for applications running
 on it, such as web browser, video player and office suite.
 
+#### I would like to compile by myself
+
+The latest release tarballs are available on GitHub:
+
+<ul class="actions">
+  <li><a href="https://github.com/lxde/releases" class="button"></a>Releases</li>
+</ul>
+
 #### I would like to get the source code
 
 If you are looking for the source code, we are hosting them in the GitHub
