@@ -42,7 +42,7 @@ on it, such as web browser, video player and office suite.
 The latest release tarballs are available on GitHub:
 
 <ul class="actions">
-  <li><a href="https://github.com/lxde/releases" class="button"></a>Releases</li>
+  <li><a href="https://github.com/lxde/releases" class="button">Releases</a></li>
 </ul>
 
 #### I would like to get the source code
